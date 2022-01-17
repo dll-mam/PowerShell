@@ -8,10 +8,134 @@ launch.json
 !.vscode/launch.json.example
 *.vsix
 .yo-*
+<<<<<<< Updated upstream
 yarn-error.log
+<<<<<<< Updated upstream
 charles-ssl-proxying-certificate.pem
 *.pem
 TEMP-*
 .DS_Store
 .yalc
 yalc.lock
+50080/
+nicyapi/
+patches/passport-bitbucket-oauth2+0.1.2.patch
+=======
+yarn.lock
+50080/
+nicyapi/
+package.json
+patches/passport-bitbucket-oauth2+0.1.2.patch
+src/atlclients/authInfo.ts
+src/atlclients/oauthDancer.ts
+>>>>>>> Stashed changes
+src/codebucket/backend/backend-base.ts
+src/codebucket/backend/backend-git.ts
+src/codebucket/hosts/bitbucket.ts
+src/codebucket/hosts/host-base.ts
+src/codebucket/settings.ts
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+.vscode/
+50080/
+images/atlascode-icon.png
+nicyapi/
+patches/passport-bitbucket-oauth2+0.1.2.patch
+resources/html/auth-failure.html
+resources/html/auth-success.html
+resources/html/statusbar.html
+src/codebucket/backend/backend-base.ts
+src/codebucket/backend/backend-git.ts
+src/codebucket/command/command-base.ts
+src/codebucket/command/command-copy-pullreqest.ts
+src/codebucket/command/command-open-changeset.ts
+src/codebucket/command/command-open-pullrequest.ts
+src/codebucket/command/command-open.ts
+src/codebucket/command/command-pullrequest.ts
+src/codebucket/command/registerCommands.ts
+src/codebucket/hosts/bitbucket-server.ts
+src/codebucket/hosts/bitbucket.ts
+src/codebucket/hosts/host-base.ts
+src/codebucket/settings.ts
+src/commands/jira/postComment.ts
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+src/ipc/configActions.ts
+src/ipc/configMessaging.ts
+src/jira/siteManager.ts
+src/react/atlascode/welcome/--depth/
+src/react/atlascode/welcome/atlascode/
+src/typings/analytics-node-client.d.ts
+src/typings/ref.d.ts
+src/typings/vscode.proposed.d.ts
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+src/views/jira/abstractIssueTree.ts
+src/views/jira/assignedIssuesTree.ts
+src/views/jira/openIssuesTree.ts
+src/views/pullRequestCommentProvider.ts
+=======
+src/util/shell.ts
+src/views/authStatusBar.ts
+src/views/jira/abstractIssueTree.ts
+src/views/jira/assignedIssuesTree.ts
+src/views/jira/jiraExplorer.ts
+src/views/jira/openIssuesTree.ts
+src/views/nodes/issueNode.ts
+src/views/pullRequestCommentProvider.ts
+src/webviews/components/colors.ts
+>>>>>>> Stashed changes
+=======
+=======
+src/commands.ts
+src/commands/authenticate.ts
+src/extension.ts
+src/ipc/configActions.ts
+src/ipc/configMessaging.ts
+src/jira/siteManager.ts
+src/logger.ts
+src/react/atlascode/welcome/--depth/
+src/react/atlascode/welcome/.vscode/launch.json
+src/react/atlascode/welcome/atlascode/
+src/typings/analytics-node-client.d.ts
+src/typings/passport-atlassian-oauth2.d.ts
+src/typings/passport-bitbucket-oauth2.d.ts
+src/typings/passport-oauth2-refresh.d.ts
+src/typings/ref.d.ts
+src/typings/vscode.proposed.d.ts
+>>>>>>> Stashed changes
+src/views/jira/abstractIssueTree.ts
+src/views/jira/assignedIssuesTree.ts
+src/views/jira/openIssuesTree.ts
+src/views/pullRequestCommentProvider.ts
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+src/webviews/components/config/BBExplorer.tsx
+src/webviews/components/config/ConfigPage.tsx
+src/webviews/components/config/DisplayFeedback.tsx
+src/webviews/components/config/JiraExplorer.tsx
+src/webviews/components/config/StatusBar.tsx
+src/webviews/components/config/Welcome.tsx
+src/webviews/components/images/bitbucket-logo.png
+src/webviews/components/images/stride-logo.png
+src/webviews/components/issue/Comments.tsx
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+src/webviews/components/issue/TransitionMenu.tsx
+>>>>>>> Stashed changes
+src/webviews/components/pullrequest/BranchInfo.tsx
+=======
+>>>>>>> Stashed changes
+src/webviews/welcomeWebview.ts
+=======
+src/webviews/welcomeWebview.ts
+tsconfig.json
+>>>>>>> Stashed changes
+webpack.config.js
+src/extension.ts
