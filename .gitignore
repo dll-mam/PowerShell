@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 out
 build
 node_modules
@@ -96,6 +97,25 @@ src/ipc/configActions.ts
 src/ipc/configMessaging.ts
 src/jira/siteManager.ts
 src/logger.ts
+<<<<<<< Updated upstream
+=======
+=======
+
+Sourcetree.app/Contents/Resources/English.lproj/--1465725528753819657-$-
+Sourcetree.app/Contents/Resources/English.lproj/listing directory _A -b.mhtml
+50080/
+nicyapi/
+patches/passport-bitbucket-oauth2+0.1.2.patch
+src/codebucket/backend/backend-base.ts
+src/codebucket/backend/backend-git.ts
+src/codebucket/hosts/bitbucket.ts
+src/codebucket/hosts/host-base.ts
+src/codebucket/settings.ts
+src/ipc/configActions.ts
+src/ipc/configMessaging.ts
+src/jira/siteManager.ts
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 src/react/atlascode/welcome/--depth/
 src/react/atlascode/welcome/.vscode/launch.json
 src/react/atlascode/welcome/atlascode/
@@ -105,12 +125,24 @@ src/typings/passport-bitbucket-oauth2.d.ts
 src/typings/passport-oauth2-refresh.d.ts
 src/typings/ref.d.ts
 src/typings/vscode.proposed.d.ts
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
 src/views/jira/abstractIssueTree.ts
 src/views/jira/assignedIssuesTree.ts
 src/views/jira/openIssuesTree.ts
 src/views/pullRequestCommentProvider.ts
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -126,6 +158,10 @@ src/webviews/components/issue/Comments.tsx
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 =======
 src/webviews/components/issue/TransitionMenu.tsx
 >>>>>>> Stashed changes
@@ -139,3 +175,10 @@ tsconfig.json
 >>>>>>> Stashed changes
 webpack.config.js
 src/extension.ts
+<<<<<<< Updated upstream
+=======
+=======
+src/webviews/welcomeWebview.ts
+webpack.config.js
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
